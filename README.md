@@ -23,21 +23,21 @@
   ```
   
 - #### Pre-requisites.
-     ```
-       Java Development Kit.
-     ```
-     ```
-       Selenium along with the drivers should be installed.
-     ```
+```
+    Java Development Kit.
+ ```
+ ```
+    Selenium along with the drivers should be installed.
+ ```
 - #### IMPORTANT
-     ```
+ ```
         CODE -AI only creates the required code, In order to run the test cases created, user need to import the required modules.
-     ```
+ ```
 - ##### Where we are now?
-      ```
+ ```
          * At first, we supports only for java. Later we take it to Python and then remaining languages.
          * We are going to support only for chrome and firefox now. Later we extend it to other browsers as well.
-      ```
+ ```
  - #### License
 
   [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
