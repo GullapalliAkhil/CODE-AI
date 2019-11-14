@@ -1,4 +1,5 @@
-# CODE-AI
+<h4 style='color:red'>CODE-AI</h4>
+
 ```diff
     Come,join us. We together change the way of automation.
  ```
@@ -37,3 +38,8 @@
          * At first, we supports only for java. Later we take it to Python and then remaining languages.
          * We are going to support only for chrome and firefox now. Later we extend it to other browsers as well.
       ```
+ - #### License
+
+  [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+  - **[MIT license](http://opensource.org/licenses/mit-license.php)**
+  - Copyright 2019 © Akhil Gullapalli.
