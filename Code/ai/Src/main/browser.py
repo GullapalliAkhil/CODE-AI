@@ -7,7 +7,7 @@ import self as self
 class BrowserCall:
     @staticmethod
     def call_browser():
-        with open(r"C:\Users\AKHIL\Desktop\CODE-AI\Code\ai\Src\main\config.json", "r") as read_file:
+        with open(r"..\CODE-AI\Code\ai\Src\main\config.json", "r") as read_file:
             data = json.load(read_file)
             typeOfBrowser = data['browserName']
             if typeOfBrowser.upper() in "CHROME":

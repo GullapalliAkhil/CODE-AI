@@ -6,7 +6,7 @@ import time
 class Check:
     @staticmethod
     def check_file():
-        with open(r"C:\Users\AKHIL\Desktop\CODE-AI\Code\ai\Src\main\config.json", "r") as read_file:
+        with open(r"..\CODE-AI\Code\ai\Src\main\config.json", "r") as read_file:
             data = json.load(read_file)
             path = data['pathName']
             f = open(f'{path}/main.java', "r")
@@ -49,7 +49,7 @@ class Check:
     @ staticmethod
     def syntax_validation():
         value = Check.check_file()
-        with open(r"C:\Users\AKHIL\Desktop\CODE-AI\Code\ai\Src\main\config.json", "r") as read_file:
+        with open(r"..\CODE-AI\Code\ai\Src\main\config.json", "r") as read_file:
             data = json.load(read_file)
             path = data['pathName']
             f = open(f'{path}/main.java', "a")
