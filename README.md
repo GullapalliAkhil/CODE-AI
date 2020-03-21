@@ -38,6 +38,16 @@
          * At first, we supports only for java. Later we take it to Python and then remaining languages.
          * We are going to support only for chrome and firefox now. Later we extend it to other browsers as well.
  ```
+ - ##### List of features planned for initial release?
+```
+      * Code generator for Java language.
+      * Page Object Model Framework builder, for the intial release we only support for POM.
+      * X-path and css locator support for this release.
+```
+- #### List of features planned for second release?
+```
+     * This release only focus will be on Pause and resume of code generator.
+```
  - #### License
 
   [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
