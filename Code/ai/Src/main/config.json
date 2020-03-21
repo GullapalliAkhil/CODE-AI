@@ -1,8 +1,0 @@
-{
-  "pathName": "Mahesh",
-  "className": "className",
-  "LanguageCode": "java",
-  "browserName": "firefox",
-  "browserDriverLoc": "C:\\\\Users\\\\AKHIL\\\\AppData\\\\Roaming\\\\npm\\\\node_modules\\\\protractor\\\\node_modules\\\\webdriver-manager\\\\selenium\\\\chromedriver_78.0.3904.70.exe",
-  "urlToHit": "URLTOHIT"
-}
